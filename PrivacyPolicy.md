@@ -1,12 +1,26 @@
 # Privacy Policy for Sprinkles Game
 
-Effective date: June 8, 2025
+Copyright © Artem Safinskyi
+
+Effective date: June 13, 2025
 
 **Sprinkles Game** ("the App") is developed by Artem Safinskyi ("we", "us", or "our"). This privacy policy explains how we handle your information when you use the App.
 
 ## Information We Collect
 
 We do **not** collect any personally identifiable information from users. The App does not require you to create an account, provide your name, email, or any other personal details.
+
+### Game Center Integration
+
+The App integrates with Apple's Game Center service to provide global leaderboards and achievements. When you choose to sign in to Game Center:
+
+- Your Game Center username and high scores are shared with Apple's Game Center service
+- Your scores may be visible to other Game Center users on global leaderboards
+- This data is managed by Apple according to their privacy policy
+- You can opt out by not signing in to Game Center - the app works fully without it
+
+For more information on Apple's Game Center privacy practices, please visit:
+https://www.apple.com/legal/privacy/
 
 ## Advertising
 
@@ -21,7 +35,7 @@ The App is **not** directed at children under the age of 13. If you are under 13
 
 ## Data Security
 
-We do not collect or store any personal data from users of the App.
+We do not collect or store any personal data from users of the App. Any data shared through Game Center is managed by Apple according to their security standards.
 
 ## International Users
 
@@ -39,4 +53,4 @@ artem.safi@gmail.com
 
 ---
 
-_Last updated: June 8, 2025_
+_Last updated: June 13, 2025_
