@@ -2,13 +2,21 @@
 
 Copyright © Artem Safinskyi
 
-Effective date: June 13, 2025
+Effective date: July 2, 2025
 
 **Sprinkles Game** ("the App") is developed by Artem Safinskyi ("we", "us", or "our"). This privacy policy explains how we handle your information when you use the App.
 
 ## Information We Collect
 
 We do **not** collect any personally identifiable information from users. The App does not require you to create an account, provide your name, email, or any other personal details.
+
+### App Usage Data
+
+To provide helpful reminder notifications, the App stores minimal usage information locally on your device:
+
+- We store when you last used the app to send helpful reminder notifications
+- We track notification frequency to avoid sending too many notifications
+- This data is stored locally on your device only and is not shared with third parties
 
 ### Game Center Integration
 
@@ -53,4 +61,4 @@ artem.safi@gmail.com
 
 ---
 
-_Last updated: June 13, 2025_
+_Last updated: July 2, 2025_
